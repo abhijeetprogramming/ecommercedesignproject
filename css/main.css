@@ -1,0 +1,170 @@
+.weblogo{
+    width: 68px;
+    
+}
+
+.navbar{
+    background-color: black !important;
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+}
+
+.navbar-nav li a{
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 100;
+    font-size: 19px;
+}
+
+.navbar-nav li a:hover{
+    background-color: #fbac1b;
+}
+/* navbar css end */
+
+.img123{
+    width: 80%;
+}
+.a{
+    padding-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px; 
+}
+.b{
+    line-height: 30px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-align: justify;
+}
+
+
+.footer{
+    background: #111215;
+    width:100%;
+    color:white;
+}
+
+.moblogo{
+    display: none;
+}
+
+.f{
+    line-height: 30px;
+    word-spacing: 1px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.icon{
+    font-size:40px;
+    color: orange;
+}
+/* 
+.banner-text {
+    position: absolute;
+   
+    color: #fff;
+    padding: -20px;
+}
+
+.banner-text h4{
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+} */
+
+.disclaimer{
+    background-color:black;
+    width: 100%;
+    padding:20px;  
+    
+}
+
+.i{
+    text-align: center;
+    width:100%;
+    
+
+}
+
+@media(max-width:768px) {
+    .img123 {
+      width: 100%;
+      margin-top: 22px;
+  
+    }
+    /* .moblogo{
+      display: block;
+    } */
+    .weblogo{
+      display: none;
+    }
+    .navbar{
+      background: black;
+    }
+    .mobimg{
+      margin-top: 80px;
+    }
+  }
+
+  footer {
+	background: #101010;
+	padding: 46px 0;
+}
+.single-content {
+	text-align: center;
+	padding: 115px 0;
+}
+.single-box p {
+	color: #fff;
+	line-height: 1.9;
+}
+.single-box h3 {
+	font-size: 16px;
+	font-weight: 700;
+	color: #fff;
+}
+.single-box .card-area i {
+	color: #ffffff;
+	font-size: 20px;
+	margin-right: 10px;
+}
+.single-box ul {
+	list-style: none;
+	padding: 0;
+}
+.single-box ul li a {
+	text-decoration: none;
+	color: #fff;
+	line-height: 2.5;
+	font-weight: 100;
+}
+.single-box h2 {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 700;
+}
+#basic-addon2 {
+	background: #fe1e4f;
+	color: #fff;
+}
+.socials i {
+	font-size: 18px;
+	margin-right: 15px;
+}
+@media (max-width: 767px) {
+	.single-box {
+		margin-bottom: 50px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.single-box {
+		margin-bottom: 50px;
+	}
+}
